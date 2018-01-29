@@ -54,3 +54,5 @@ nnoremap tl :tablast<CR>
 :set path=$PWD/**
 au BufReadPost *.hbs set syntax=html
 
+" Set copying
+set clipboard=unnamed
